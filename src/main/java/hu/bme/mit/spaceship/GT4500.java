@@ -94,4 +94,9 @@ public class GT4500 implements SpaceShip {
 
 }
 
+<<<<<<< HEAD
 ///random mosdacec
+=======
+
+///random modositas
+>>>>>>> branch-A
